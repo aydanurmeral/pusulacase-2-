@@ -1,6 +1,6 @@
 # StudentAutomation
 
-Kısa rehber: frontend (Vue.js) ve backend (.NET + PostgreSQL) içerir.
+frontend (Vue.js) ve backend (.NET + PostgreSQL) içerir.
 
 ---
 
