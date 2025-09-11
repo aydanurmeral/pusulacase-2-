@@ -1,0 +1,5 @@
+backend/StudentAutomation.Api/appsettings.json
+/frontend/node_modules
+backend/StudentAutomation.Api/bin/Debug/net9.0/appsettings.json
+backend/StudentAutomation.Api/appsettings.Development.json
+backend/StudentAutomation.Api/bin/Debug/net9.0/appsettings.Development.json
