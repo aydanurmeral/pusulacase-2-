@@ -12,3 +12,5 @@ frontend için npm install (ilk defa çalıştırıyorsanız.)
 npm run dev
 
 backend: dotnet run
+
+bu bir case çalışmasıdır henüz tamamlanmamıştır.
